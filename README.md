@@ -1,2 +1,0 @@
-# jassi
-movie review
